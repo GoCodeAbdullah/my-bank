@@ -1,0 +1,3 @@
+Sea Green: #00b3a1
+Dark Blue: #1b3847
+Text: #eee
